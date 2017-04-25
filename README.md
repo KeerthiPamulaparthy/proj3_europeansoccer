@@ -1,0 +1,1 @@
+Predicted home team match outcome for European soccer teams, by utilizing supervised machine learning algorithms. Obtained data from kaggle, carried out data joins using SQL queries, performed feature engineering and created D3 visualization.
